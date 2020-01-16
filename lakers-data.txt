@@ -1,0 +1,40 @@
+1,Los Angeles Clippers,102,112
+2,Utah Jazz,95,86
+3,Charlotte Hornets,120,101
+4,Memphis Grizzlies,120,91
+5,Dallas Mavericks,119,110
+6,San Antonio Spurs,103,96
+7,Chicago Bulls,118,112
+8,Miami Heat,95,80
+9,Toronto Raptors,104,113
+10,Phoenix Suns,123,115
+11,Golden State Warriors,120,94
+12,Sacramento Kings,99,97
+13,Atlanta Hawks,122,101
+14,Oklahoma City Thunder,112,107
+15,Oklahoma City Thunder,130,127
+16,Memphis Grizzlies,109,108
+17,San Anthonio Spurs,114,104
+18,New Orleans Pelicans,114,110
+19,Washington Wizards,125,103
+20,Dallas Mavericks,100,114
+21,Denver Nuggets,105,96
+22,Utah Jazz,121,96
+23,Portland Trail Blazers,136,113
+24,Minnesota Timberwolves,142,125
+25,Orlanda Magic,96,87
+26,Miami Heat,113,110
+27,Atlanta Hawks,101,96
+28,Indiana Pacers,102,105
+29,Milwaukee Bucks,104,11
+30,Denver Nuggets,104,128
+31,Los Angeles Clippers,106,111
+32,Portland Trail Blazers,128,120
+33,Dallas Mavericks,108,95
+34,Phoenix Suns,117,107
+35,New Orleans Pelicans,123,113
+36,Detroit Pistons,106,99
+37,New York Knicks,117,87
+38,Dallas Mavericks,129,114
+39,Oklahoma City Thunder,125,110
+40,Cleveland Cavaliers,128,99
